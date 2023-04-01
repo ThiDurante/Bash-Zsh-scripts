@@ -14,6 +14,8 @@ code ~/.zshrc
 source ~/.zshrc
 #use GC to add ., commit and push!
 # remember to pass a message with GC "message"
+# usage example
+GC "Please work this time"
 ```
 
 If you want to change the command, just change the name of the function, remember to reload source after!
@@ -39,6 +41,8 @@ code ~/.zshrc
 source ~/.zshrc
 # use GC para adicionar ., commitar e fazer push!
 # lembre-se de passar uma mensagem com GC "mensagem"
+# exemplo de uso
+GC "Por favor funciona dessa vez"
 ```
 
 Se você quiser mudar o comando, apenas mude o nome da função e lembre-se de recarregar a origem depois!
