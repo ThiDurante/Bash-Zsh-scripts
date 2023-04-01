@@ -1,9 +1,8 @@
 # automate-commits
 
-:us:
 
 <details>
-<summary>US</summary>
+<summary><strong>US</strong></summary>
 Automate commits with GC "message", no need for 3 commands anymore :)
 
 ```bash
@@ -22,10 +21,9 @@ If you want to change the command, just change the name of the function, remembe
 This is for branches who already have an upstream setted :)
 
 </details>
-:brazil:
 
 <details> 
-<summary>BR</summary>
+<summary><strong>BR</strong></summary>
 Automatize commits com GC "mensagem", sem precisar de 3 comandos mais :)
 
 bash
