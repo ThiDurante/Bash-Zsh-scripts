@@ -3,7 +3,8 @@
 :us:
 
 <details>
-<summary>Automate commits with GC "message", no need for 3 commands anymore :)
+<summary>US</summary>
+Automate commits with GC "message", no need for 3 commands anymore :)
 
 ```bash
 # open .zshrc or bashrc
@@ -18,13 +19,14 @@ source ~/.zshrc
 
 If you want to change the command, just change the name of the function, remember to reload source after!
 
-This is for branches who already have an upstream setted :)</summary>
+This is for branches who already have an upstream setted :)
 
 </details>
 :brazil:
 
 <details> 
-<summary> Automatize commits com GC "mensagem", sem precisar de 3 comandos mais :)
+<summary>BR</summary>
+Automatize commits com GC "mensagem", sem precisar de 3 comandos mais :)
 
 bash
 Copy code
@@ -43,6 +45,6 @@ source ~/.zshrc
 
 Se você quiser mudar o comando, apenas mude o nome da função e lembre-se de recarregar a origem depois!
 
-Isso é para branches que já têm um upstream configurado :) </summary>
+Isso é para branches que já têm um upstream configurado :)
 
 </details>
