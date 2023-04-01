@@ -29,21 +29,17 @@ This is for branches who already have an upstream setted :)</summary>
 bash
 Copy code
 
+```bash
 # abra o .zshrc ou bashrc
 
 code ~/.zshrc
-
 # vá para o final do arquivo e adicione o script
-
 # salve o arquivo
-
 # agora vamos usar como referência
-
 source ~/.zshrc
-
 # use GC para adicionar ., commitar e fazer push!
-
 # lembre-se de passar uma mensagem com GC "mensagem"
+```
 
 Se você quiser mudar o comando, apenas mude o nome da função e lembre-se de recarregar a origem depois!
 
